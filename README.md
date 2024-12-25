@@ -33,3 +33,6 @@ If all three checks are valid, the email is deemed valid; otherwise, it is inval
    git clone git@github.com:your-username/email-validator.git
    cd email-validator
    ```
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/458fffa0-974b-49ad-bf42-a4deb42588e0)
